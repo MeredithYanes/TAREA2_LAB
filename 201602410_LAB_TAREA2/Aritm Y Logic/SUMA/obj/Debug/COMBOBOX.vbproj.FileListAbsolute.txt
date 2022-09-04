@@ -1,0 +1,13 @@
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_LAB_TAREA2\SUMA\SUMA\bin\Debug\SUMA.exe.config
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_LAB_TAREA2\SUMA\SUMA\bin\Debug\SUMA.exe
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_LAB_TAREA2\SUMA\SUMA\bin\Debug\SUMA.pdb
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_LAB_TAREA2\SUMA\SUMA\bin\Debug\SUMA.xml
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_LAB_TAREA2\SUMA\SUMA\obj\Debug\COMBOBOX.vbproj.AssemblyReference.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_LAB_TAREA2\SUMA\SUMA\obj\Debug\COMBOBOX.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_LAB_TAREA2\SUMA\SUMA\obj\Debug\SUMA.Form1.resources
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_LAB_TAREA2\SUMA\SUMA\obj\Debug\SUMA.Resources.resources
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_LAB_TAREA2\SUMA\SUMA\obj\Debug\COMBOBOX.vbproj.GenerateResource.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_LAB_TAREA2\SUMA\SUMA\obj\Debug\COMBOBOX.vbproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_LAB_TAREA2\SUMA\SUMA\obj\Debug\SUMA.exe
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_LAB_TAREA2\SUMA\SUMA\obj\Debug\SUMA.xml
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_LAB_TAREA2\SUMA\SUMA\obj\Debug\SUMA.pdb
